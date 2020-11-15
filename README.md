@@ -1,0 +1,2 @@
+# MountianPath
+Implements greedy algorithm
